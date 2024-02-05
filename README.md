@@ -1,4 +1,4 @@
-# Quantum Machine Learning (QML) Research Project
+# Quantum Machine Learning (QML) Literature Review Project
 
 ## Overview
 
